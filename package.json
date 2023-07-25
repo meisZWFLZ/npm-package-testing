@@ -1,6 +1,6 @@
 {
   "name": "@meiszwflz21/npm-package-testing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testing how publishing a package works",
   "main": "main.js",
   "scripts": {
